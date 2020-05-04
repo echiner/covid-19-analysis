@@ -13,6 +13,11 @@ Simple analysis of different COVID-19 datasources (snapshot, time series, Spain 
 
 ## Sample Analysis
 
+### Totals
+![Totals](img/Analysis3.PNG)
+
+### Evolution (global)
 ![Evolution analysis](img/Analysis1.PNG)
 
+### Detailed analysis (Spain)
 ![Comunidades autónomas](img/Analysis2.PNG)
