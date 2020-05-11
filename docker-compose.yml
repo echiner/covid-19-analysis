@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+
+  zeppelin:
+    image: apache/zeppelin:0.8.1
+    ports: 
+      - 9999:8080

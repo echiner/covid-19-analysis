@@ -21,3 +21,8 @@ Simple analysis of different COVID-19 datasources (snapshot, time series, Spain 
 
 ### Detailed analysis (Spain)
 ![Comunidades autónomas](img/Analysis2.PNG)
+
+## TODO
+
+* Pre-configure interpolation, spark max record set and helium visualization
+* Automatically load the notebook
